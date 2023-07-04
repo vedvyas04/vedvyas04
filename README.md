@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there, I am Ved Vyas! 👋
 
-<!--
-**vedvyas04/vedvyas04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Uniting the ideas of Data-Driven insights into decisions and actions.
 
-Here are some ideas to get you started:
+About me: I am a Data Science Graduate student from Northeastern University. Previously worked with DraftKings and National Olympiad Foundation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    🌱 I’m currently learning: Machine Learning and Algorithms.
+    👯 I’m looking to collaborate on: Novel NLP and Data Analytics techniques
+    💬 Ask me about: Database Management and Systems, Machine learning Algorithms.
+    📫 How to reach me: [https://www.linkedin.com/in/akhil-chowdary-m-13a840166/](https://www.linkedin.com/in/ved-vyas-04/)
+
+    email: vedvyas04@gmail.com
+
+    😄 Pronouns: He/His
+    ⚡ Fun fact: I would love to research and apply my data science skills in psychology 
